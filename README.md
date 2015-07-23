@@ -18,6 +18,10 @@ Primer isn't:
 
 ![Primer Screenshot](https://dl.dropboxusercontent.com/u/20572064/primer-screenshot.png)
 
+## Demo
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ## Installation
 
 To get started, simply run from the Primer folder:

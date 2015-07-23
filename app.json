@@ -1,0 +1,7 @@
+{
+  "name": "Primer",
+  "description": "Rareloop's Primer",
+  "repository": "https://github.com/Rareloop/primer",
+  "logo": "http://www.rareloop.com/wp-content/themes/rareloop/assets/img/svg-fallback/rareloop.png",
+  "keywords": ["php", "js", "handlebars", "components", "patterns", "pattern library"]
+}
